@@ -1,26 +1,9 @@
-## Hi, my name is Carlos Agundez or ~~@internetcharly~~
+<div align="center"> <h1 align="center"> Hi, my name is Carlos Agundez or @internetcharly </h1> </div>
 
-<!--
-**internetcharly/internetcharly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> <h3 align="center"> I am a front-end developer 💻🥣 </h3> </div>
 
-Here are some ideas to get you started:
+<div align="center"> <h3 align="center"><img src="https://media.giphy.com/media/J4JSpIwM6y3Q6xnHgg/giphy.gif"> </h3> </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 
-#### I am a frontend developer 💻🥣
-<img src="https://media.giphy.com/media/J4JSpIwM6y3Q6xnHgg/giphy.gif">
+<div align="center"> <h5 align="center">Tools: REACT | JS | HTML | CSS | FIGMA  </h5> </div>
 
 
-
-#### Skills:  REACT | JS | HTML | CSS | FIGMA 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=internetcharly)](https://github.com/anuraghazra/github-readme-stats) 
