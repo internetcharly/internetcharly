@@ -1,4 +1,4 @@
-## Hi, I'm Carlos Agundez 👋
+## Hi, my name is Carlos Agundez or ~~@internetcharly~~
 
 <!--
 **internetcharly/internetcharly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi my name is Carlos Agundez or ~~@internetcharly~~
+### 
 #### I am a frontend developer 💻🥣
 <img src="https://media.giphy.com/media/J4JSpIwM6y3Q6xnHgg/giphy.gif">
 
