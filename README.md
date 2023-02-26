@@ -6,7 +6,6 @@
 
 <div align="center"> <h4 align="center">🛠️ TOOLS: </h5> </div>
 
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,react,html,css,figma" />
 </p>
